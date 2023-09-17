@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="completion_proposal_size">
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="PDOMSearchPage">
+		<item key="caseSensitive" value="false"/>
+		<item key="searchFlags" value="227191"/>
+		<list key="previousPatterns">
+			<item value="message"/>
+			<item value="NRF24_Transmit"/>
+			<item value="NRF24_TxMode"/>
+			<item value="nrf24_WriteRegMulti"/>
+			<item value="FR_NOT_READY"/>
+		</list>
+	</section>
+</section>

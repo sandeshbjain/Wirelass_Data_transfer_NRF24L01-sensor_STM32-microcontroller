@@ -1,0 +1,44 @@
+2023-08-29 22:50:22,409 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,594x186,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-08-29 22:50:56,685 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-08-29 22:51:00,135 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-08-29 22:51:04,256 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-08-29 22:51:41,671 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-08-29 22:52:02,997 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-08-29 22:52:08,438 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 496134648 Bytes (1071644672)
+2023-08-29 22:52:12,496 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 516579832 Bytes (1071644672)
+2023-08-29 22:52:18,306 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 606606928 Bytes (1071644672)
+2023-08-29 22:52:18,568 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-08-29 22:52:18,568 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-08-29 22:52:18,568 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-08-29 22:52:18,568 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-08-29 22:52:18,569 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-08-29 22:52:18,569 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-08-29 22:52:18,569 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-08-29 22:52:18,754 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\MXTmpFiles\license.tmp_save
+2023-08-29 22:52:18,870 [INFO] CodeEngine:279 - Generated code: C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\MXTmpFiles\license.tmp
+2023-08-29 22:52:18,905 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\MXTmpFiles\gpio.tmp_save
+2023-08-29 22:52:18,997 [INFO] CodeEngine:279 - Generated code: C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\MXTmpFiles\gpio.tmp
+2023-08-29 22:52:19,113 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\Core\Src\stm32f4xx_it.c_save
+2023-08-29 22:52:19,261 [INFO] CodeEngine:279 - Generated code: C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\Core\Src\stm32f4xx_it.c
+2023-08-29 22:52:19,271 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\Core\Inc\stm32f4xx_it.h_save
+2023-08-29 22:52:19,324 [INFO] CodeEngine:279 - Generated code: C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\Core\Inc\stm32f4xx_it.h
+2023-08-29 22:52:19,348 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\Core\Src\stm32f4xx_hal_msp.c_save
+2023-08-29 22:52:19,455 [INFO] CodeEngine:279 - Generated code: C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\Core\Src\stm32f4xx_hal_msp.c
+2023-08-29 22:52:19,464 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\MXTmpFiles\system.tmp_save
+2023-08-29 22:52:19,508 [INFO] CodeEngine:279 - Generated code: C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\MXTmpFiles\system.tmp
+2023-08-29 22:52:19,527 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-08-29 22:52:19,601 [INFO] CodeEngine:335 - Generated code: C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\Core\Inc\stm32f4xx_hal_conf.h
+2023-08-29 22:52:19,670 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\Core\Inc\main.h_save
+2023-08-29 22:52:19,824 [INFO] CodeEngine:279 - Generated code: C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\Core\Inc\main.h
+2023-08-29 22:52:19,845 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\Core\Src\main.c_save
+2023-08-29 22:52:20,005 [INFO] CodeEngine:279 - Generated code: C:\Users\sande\STM32CubeIDE\Nucleo_Receive\Nucleo_Receive\Core\Src\main.c
+2023-08-29 22:52:20,535 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 136mS.
+2023-08-29 22:52:20,541 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-08-29 22:52:20,721 [INFO] ConfigFileManager:1483 - The Die is : DIE433
+2023-08-29 22:52:22,361 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1820mS.
+2023-08-29 22:52:22,362 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-08-29 22:52:22,365 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-08-29 23:27:52,246 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-08-29 23:28:03,063 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-08-29 23:28:12,512 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-08-29 23:28:22,393 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
